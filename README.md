@@ -5,6 +5,7 @@
 It's Nate from Ethiopia, and i work on website design and development. I really enjoy learning languages like React and Flutter. I also enjoy wireframing, ui , ux, and design in general.
 
 ## My Skills
+<br><br>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -50,7 +51,7 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
       <br>SQL</br>
     </td>
 </tr>
-</table>
+</table><br><br>
 
 ## Stats
 
