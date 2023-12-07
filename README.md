@@ -3,7 +3,10 @@
 
 <h1 align="center" style="font-weight: bold;">Hi there, I'm Nathan Dereje👋</h1>
 It's Nate from Ethiopia, and i work on website design and development. I really enjoy learning languages like React and Flutter. I also enjoy wireframing, ui , ux, and design in general.
-
+<br><br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nathan-Dereje-K&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 ## My Skills
 <br><br>
 <table align="center">
