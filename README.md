@@ -1,4 +1,4 @@
-<img width="75%" alt="Web Developer" height="300px" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600">
+<div align='center'><img width="75%" alt="Web Developer" height="300px" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600"></div>
 
 
 <h1 align="center" style="font-weight: bold;">Hi there, I'm Nathan Dereje👋</h1>
