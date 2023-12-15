@@ -66,3 +66,16 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
 ## Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Dereje-K&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathan's GitHub Stats" width="75%" />
+  <div style="display:flex;">
+  
+  <div>
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Dereje-K&theme=radical&hide_border=true" alt="Nathan's GitHub Streak" width="40%" />
+    </p>
+  </div>
+  <div>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dereje-K&layout=compact&theme=radical&hide_border=true" alt="Nathan's Top Languages" width="40%" />
+    </p>
+  </div>
+</div>
