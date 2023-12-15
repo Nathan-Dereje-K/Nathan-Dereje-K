@@ -47,12 +47,19 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
       </a>
       <br>Flutter</br>
     </td>
+  <td align="center">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      </a>
+      <br>C++
+    </td>
   <td align="center" width="96">
       <a href="#js">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="48" height="48" alt="SQL" width="48" height="48" alt="javascript" />
       </a>
       <br>SQL</br>
     </td>
+  
 </tr>
 </table><br><br>
 
