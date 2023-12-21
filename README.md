@@ -7,8 +7,9 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nathan-Dereje-K&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
+
 ## My Skills
-<br><br>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
