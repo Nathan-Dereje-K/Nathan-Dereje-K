@@ -8,6 +8,19 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
   <img src="https://komarev.com/ghpvc/?username=Nathan-Dereje-K&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
+<ul style="list-style: none; padding-left: 0;">
+  <li><b>🔭 I’m currently working on:</b> MERN Stack </li>
+  <li><b>💬 Ask me about:</b> React, Flutter, and others.</li>
+  <li><b>📫 How to reach me:</b> <a href="mailto:natidare61@gmail.com">natidare61@gmail.com</a></li>
+  <li>⚡ I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.</li>
+</ul>
+
+<!-- Connect with Me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathan-dereje-5b58582a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
 ## My Skills
 
 <table align="center">
@@ -71,12 +84,9 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
   
   <div>
     <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Dereje-K&theme=radical&hide_border=true" alt="Nathan's GitHub Streak" width="40%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Dereje-K&theme=radical&hide_border=true" alt="Nathan's GitHub Streak" width="40%" height="40%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dereje-K&layout=compact&theme=radical&hide_border=true" alt="Nathan's Top Languages" width="40%" height="40%" />
     </p>
   </div>
-  <div>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dereje-K&layout=compact&theme=radical&hide_border=true" alt="Nathan's Top Languages" width="40%" />
-    </p>
-  </div>
+ 
 </div>
