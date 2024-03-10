@@ -10,7 +10,6 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
 
 <ul style="list-style: none; padding-left: 0;">
   <li><b>🔭 I’m currently working on:</b> MERN Stack </li>
-  <li><b>💬 Ask me about:</b> React, Flutter, and others.</li>
   <li><b>📫 How to reach me:</b> <a href="mailto:natidare61@gmail.com">natidare61@gmail.com</a></li>
   <li>⚡ I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.</li>
 </ul>
@@ -25,68 +24,94 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
 
 <table align="center">
   <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center">
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+      </a>
+      <br>Figma
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+      </a>
+      <br>Node.js
+    </td>
+    
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>HTML</br>
+        <a href="#Express">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="48" height="48" alt="Express" />
+        </a>
+        <br>Express
     </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="javascript" />
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
       </a>
-      <br>CSS</br>
+      <br>MongoDB
     </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="48" alt="javascript" />
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
       </a>
-      <br>Tailwind</br>
+      <br>PostgreSQL
     </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+    <td align="center" width="96">
+        <a href="#NPM">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="48" height="48" alt="NPM" />
+        </a>
+        <br>NPM
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
-      <br>Javascript</br>
+      <br>Git
     </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="javascript" />
+    <td align="center">
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
       </a>
-      <br>React</br>
+      <br>Postman
     </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="SQL" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Flutter</br>
-    </td>
-  <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-      </a>
-      <br>C++
-    </td>
-  <td align="center" width="96">
-      <a href="#js">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="48" height="48" alt="SQL" width="48" height="48" alt="javascript" />
-      </a>
-      <br>SQL</br>
-    </td>
-  
-</tr>
+  </tr>
 </table><br><br>
 
 ## Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Dereje-K&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathan's GitHub Stats" width="75%" />
-  <div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Dereje-K&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathan's GitHub Stats" width="85%" />
+ 
   
   <div>
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Dereje-K&theme=radical&hide_border=true" alt="Nathan's GitHub Streak" width="40%" height="40%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dereje-K&layout=compact&theme=radical&hide_border=true" alt="Nathan's Top Languages" width="40%" height="40%" />
-    </p>
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Dereje-K&theme=radical&hide_border=true" alt="Nathan's GitHub Streak" width="45%" height="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dereje-K&layout=compact&theme=radical&hide_border=true" alt="Nathan's Top Languages" width="40%" height="100%" />
+    </div>
   </div>
  
-</div>
+
