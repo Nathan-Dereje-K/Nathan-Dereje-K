@@ -21,7 +21,7 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
 </p>
 
 ## My Skills
-
+<br>
 <table align="center">
   <tr>
     <td align="center">
@@ -76,10 +76,10 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
       <br>MongoDB
     </td>
     <td align="center">
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+      <a href="https://www.mysql.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="40" height="40"/>
       </a>
-      <br>PostgreSQL
+      <br>MySQL
     </td>
     <td align="center" width="96">
         <a href="#NPM">
@@ -100,7 +100,7 @@ It's Nate from Ethiopia, and i work on website design and development. I really 
       <br>Postman
     </td>
   </tr>
-</table><br><br>
+</table>
 
 ## Stats
 
